@@ -32,7 +32,7 @@
   <project path="device/generic/x86" name="device/generic/x86" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
-  <project path="device/lge/mako" name="device/lge/mako" groups="device" />
+  <project path="device/lge/mako" name="android_device_lge_mako" remote="github" revision="jb-mr1" groups="device" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device" />
   <project path="device/moto/common" name="android_device_moto_common" remote="github" revision="jb-mr1" groups="device" />
   <project path="device/moto/stingray" name="android_device_moto_stingray" remote="github" revision="jb-mr1" groups="device" />
