@@ -344,5 +344,6 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="tools/build" name="platform/tools/build" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
+  <project path="vendor/my" name="android_vendor_my" remote="github" revision="jb-mr1.1" />
 
 </manifest>
