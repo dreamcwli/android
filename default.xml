@@ -34,6 +34,10 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/lge/mako" name="device/lge/mako" revision="refs/tags/android-4.2.1_r1.2" groups="device" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" revision="refs/tags/android-4.2.1_r1.2" groups="device" />
+  <project path="device/moto/common" name="device/moto/common" revision="refs/tags/android-4.1.2_r1" groups="device" />
+  <project path="device/moto/stingray" name="android_device_moto_stingray" remote="github" revision="jb-mr1.1" groups="device" />
+  <project path="device/moto/umts_everest" name="android_device_moto_umts_everest" remote="github" revision="jb-mr1.1" groups="device" />
+  <project path="device/moto/wingray" name="android_device_moto_wingray" remote="github" revision="jb-mr1.1" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" revision="refs/tags/android-4.2.1_r1.2" groups="device" />
   <project path="device/samsung/manta" name="device/samsung/manta" revision="refs/tags/android-4.2.1_r1.2" groups="device" />
