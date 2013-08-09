@@ -384,5 +384,6 @@
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+  <project path="vendor/my/common" name="android_vendor_my_common" remote="github" revision="jb-mr2" />
 
 </manifest>
