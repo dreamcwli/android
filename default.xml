@@ -43,7 +43,7 @@
   <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device,tuna" />
+  <project path="device/samsung/maguro" name="android_device_samsung_maguro" groups="device,tuna" remote="github" revision="jb-mr2" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="device/samsung/toro" name="device/samsung/toro" groups="device,tuna" />
   <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device,tuna" />
