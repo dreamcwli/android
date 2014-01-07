@@ -304,5 +304,6 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="platform/system/vold" />
+  <project path="vendor/my/common" name="android_vendor_my_common" remote="github" revision="jb" />
 
 </manifest>
